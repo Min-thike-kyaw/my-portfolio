@@ -10,7 +10,7 @@ import Contact from './components/Contact';
 
 function App() {
 
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(true);
 
     useEffect(() => {
       setLoading(true);
