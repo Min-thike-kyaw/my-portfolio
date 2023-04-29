@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Full-stack Development",
+        "description": "Full-stack development involves developing both the front-end and back-end of a website or application. This includes designing the user interface, creating the database, writing the server-side code, and managing the hosting environment. Full-stack developers are skilled in both front-end technologies like HTML, CSS, and JavaScript, Vue, React, as well as back-end technologies like PHP/Laravel, Node/Express and more."
+    },
+    {
+        "name": "API",
+        "description": "An API (Application Programming Interface) is a set of protocols and tools for building software applications. API development involves creating and maintaining the back-end interface for a web or mobile application, allowing it to communicate with other systems and services. This can include developing RESTful APIs, integrating with third-party APIs, and implementing data exchange between different systems."
+    },
+    {
+        "name": "E-commerce",
+        "description": "E-commerce development involves building online stores and marketplaces that allow businesses to sell their products and services online. This can include designing the user interface, setting up payment processing, and integrating with other e-commerce platforms."
+    },
+    {
+        "name": "Maintenance",
+        "description": "Maintenance involves keeping software applications and systems running smoothly and efficiently. This can include monitoring for bugs and errors, fixing issues as they arise, updating software and security patches, and ensuring that the application or system is always up-to-date and functioning properly."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name" : "Backend",
+        "skills" : [
+            {
+                "name": "PHP/Laravel",
+                "percent" : 90
+            },
+            {
+                "name": "Node/Express",
+                "percent" : 80
+            }
+        ]
+    },
+    {
+        "name" : "Frontend",
+        "skills" : [
+            {
+                "name": "Vue/Nuxt",
+                "percent" : 90
+            },
+            {
+                "name": "React",
+                "percent" : 60
+            }
+        ]
+    },
+    {
+        "name" : "Database",
+        "skills" : [
+            {
+                "name": "Mysql",
+                "percent" : 80
+            },
+            {
+                "name": "MongoDB",
+                "percent" : 70
+            }
+        ]
+    },
+    {
+        "name" : "Others",
+        "skills" : [
+            {
+                "name": "Github",
+                "percent" : 70
+            },
+            {
+                "name": "Docker",
+                "percent" : 50
+            },
+            {
+                "name": "Nginx/Apache2/etc",
+                "percent" : 50
+            },
+            {
+                "name": "AWS",
+                "percent" : 30
+            }
+        ]
+    }
+]
