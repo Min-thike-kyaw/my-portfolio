@@ -42,7 +42,10 @@ function Nav() {
                                     <span className="block cursor-pointer py-2 pl-3 pr-4 rounded  md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0  md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent" onClick={()=> handleClickScroll('services')}>Services</span>
                                 </li>
                                 <li>
-                                    <span className="block cursor-pointer py-2 pl-3 pr-4 rounded  md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0  md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent" onClick={()=> handleClickScroll('contact')}>Contact</span>
+                                    <span className="block cursor-pointer py-2 pl-3 pr-4 rounded  md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0  md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent" onClick={()=> handleClickScroll('experience')}>Experience</span>
+                                </li>
+                                <li>
+                                    <span className="block cursor-pointer py-2 pl-3 pr-4 rounded  md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0  md:dark:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent" onClick={()=> handleClickScroll('contact')}>Contact</span>
                                 </li>
                             </ul>
                         </div> : ''
@@ -63,7 +66,10 @@ function Nav() {
                             <span className="block cursor-pointer py-2 pl-3 pr-4 rounded  md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0  md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent" onClick={()=> handleClickScroll('services')}>Services</span>
                         </li>
                         <li>
-                            <span className="block cursor-pointer py-2 pl-3 pr-4 rounded  md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0  md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent" onClick={()=> handleClickScroll('contact')}>Contact</span>
+                            <span className="block cursor-pointer py-2 pl-3 pr-4 rounded  md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0  md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent" onClick={()=> handleClickScroll('experience')}>Experience</span>
+                                </li>
+                                <li>
+                                    <span className="block cursor-pointer py-2 pl-3 pr-4 rounded  md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0  md:dark:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent" onClick={()=> handleClickScroll('contact')}>Contact</span>
                         </li>
                     </ul>
                 </div>

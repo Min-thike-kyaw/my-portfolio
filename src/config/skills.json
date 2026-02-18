@@ -1,62 +1,43 @@
 [
-    {
-        "name" : "Backend",
-        "skills" : [
-            {
-                "name": "PHP/Laravel",
-                "percent" : 90
-            },
-            {
-                "name": "Node/Express",
-                "percent" : 80
-            }
-        ]
-    },
-    {
-        "name" : "Frontend",
-        "skills" : [
-            {
-                "name": "Vue/Nuxt",
-                "percent" : 90
-            },
-            {
-                "name": "React",
-                "percent" : 60
-            }
-        ]
-    },
-    {
-        "name" : "Database",
-        "skills" : [
-            {
-                "name": "Mysql",
-                "percent" : 80
-            },
-            {
-                "name": "MongoDB",
-                "percent" : 70
-            }
-        ]
-    },
-    {
-        "name" : "Others",
-        "skills" : [
-            {
-                "name": "Github",
-                "percent" : 70
-            },
-            {
-                "name": "Docker",
-                "percent" : 50
-            },
-            {
-                "name": "Nginx/Apache2/etc",
-                "percent" : 50
-            },
-            {
-                "name": "AWS",
-                "percent" : 30
-            }
-        ]
-    }
+  {
+    "name": "Backend",
+    "skills": [
+      { "name": "Laravel", "percent": 95 },
+      { "name": "PHP", "percent": 95 },
+      { "name": "Express.js", "percent": 90 },
+      { "name": "Node.js", "percent": 85 },
+      { "name": "Serverless", "percent": 75 }
+    ]
+  },
+  {
+    "name": "Frontend",
+    "skills": [
+      { "name": "Vue / Nuxt.js", "percent": 95 },
+      { "name": "React / Next.js", "percent": 80 },
+      { "name": "React Native", "percent": 70 }
+    ]
+  },
+  {
+    "name": "Database",
+    "skills": [
+      { "name": "SQL (MySQL)", "percent": 95 },
+      { "name": "NoSQL / MongoDB", "percent": 85 }
+    ]
+  },
+  {
+    "name": "DevOps & Infrastructure",
+    "skills": [
+      { "name": "Docker", "percent": 80 },
+      { "name": "AWS", "percent": 70 },
+      { "name": "Apache2 / Nginx", "percent": 80 },
+      { "name": "Linux / Ubuntu", "percent": 85 }
+    ]
+  },
+  {
+    "name": "Blockchain & More",
+    "skills": [
+      { "name": "Solidity", "percent": 70 },
+      { "name": "Python", "percent": 65 }
+    ]
+  }
 ]

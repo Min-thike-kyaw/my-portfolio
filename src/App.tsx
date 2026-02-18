@@ -6,6 +6,7 @@ import Banner from './components/Banner';
 import Objective from './components/Objective';
 import Skills from './components/Skills';
 import Services from './components/Services';
+import Experience from './components/Experience';
 import Contact from './components/Contact';
 
 function App() {
@@ -42,8 +43,10 @@ function App() {
             <div className='pt-28' id='services'>
               <Services />
             </div>
+            <div className='pt-28' id='experience'>
+              <Experience />
+            </div>
             <div className='pt-28' id='contact'>
-
               <Contact />
             </div>
           </div>

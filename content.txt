@@ -1,0 +1,65 @@
+Relevant Skills
+    • Laravel (Expert)
+    • PHP (Expert)
+    • Express.js (Expert)
+    • Serverless
+    • Node.js
+    • Vue / Nuxt.js(Expert)
+    • React / Next.js
+    • React Native
+    • SQL (Expert)
+    • NoSQL/MongoDB
+    • Docker
+    • AWS
+    • Apache2, Nginx
+    • Linux/Ubuntu
+    • Solidity
+    • Python
+
+Expertise 
+• Experience in Full-Stack Development (Laravel,Node.js, React, Vue)
+• Proficiency in SQL and relational database design (MySQL)
+• Understanding of NoSQL concepts and data modeling
+• Familiarity with Docker and containerized deployment environments
+• Comfortable with frontend frameworks such as Vue.js, React, Nuxt.js, and Next.js
+• Experience in REST API design and backend architecture
+• Adept at system maintenance, production deployment, and server configuration (Linux, Apache/Nginx)
+• Experience with real-time systems using WebSockets
+• Familiar with Web3 development including Smart
+Contracts (ERC-20) and NFT marketplace architecture
+• Understanding of Blockchain fundamentals (Proof-of-Work, digital signatures, transaction validation)
+• Basic knowledge of Machine Learning
+
+
+Experiences
+Software Developer
+Host Myanmar Co. Ltd
+Dec 2021 - Oct 2022
+    • Developed web applications including Learning Management Systems, E-commerce platforms, and Booking Management Systems
+    • Integrated secure payment gateways for E-commerce platforms
+    • Maintained and enhanced existing systems for performance and stability
+    • Implemented custom plugins and feature extensions based on client requirements
+    Senior Full-Stack Developer
+OOAK Co. Ltd
+Oct 2022 - Present
+    • Maintain and enhance production websites with new features and optimizations
+    • Design and develop scalable web applications
+    • Deploy applications using Ubuntu, Apache2, and Docker-based environments
+    • Lead development teams across multiple projects, managing task delegation, timelines, and quality assurance
+    • Oversee full project lifecycle from planning to deployment
+Backend Developer
+LASTTOENJOY Co. Ltd
+Apr 2023 - Nov 2023
+    • Developed backend systems within defined timelines
+    • Deployed applications using Serverless architecture (Node.js)
+    • Resolved production issues and improved system reliability
+    • Optimized backend performance and database efficiency
+    Software Engineer
+Loftal Co. Ltd
+Nov 2024 - Current
+    • Developed a location-based social application integrating Google Maps to display realtime local activities
+    • Built token generation and token trading applications
+    • Developed ai nodes for Al workflow automation systems
+    • Implemented unit testing and feature testing for backend systems
+    • Conducted end-to-end (EZE) testing to ensure system reliability
+    • Contributed to Web3-based projects including smart contract integration and blockchain-related features

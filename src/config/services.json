@@ -1,18 +1,22 @@
 [
-    {
-        "name": "Full-stack Development",
-        "description": "Full-stack development involves developing both the front-end and back-end of a website or application. This includes designing the user interface, creating the database, writing the server-side code, and managing the hosting environment. Full-stack developers are skilled in both front-end technologies like HTML, CSS, and JavaScript, Vue, React, as well as back-end technologies like PHP/Laravel, Node/Express and more."
-    },
-    {
-        "name": "API",
-        "description": "An API (Application Programming Interface) is a set of protocols and tools for building software applications. API development involves creating and maintaining the back-end interface for a web or mobile application, allowing it to communicate with other systems and services. This can include developing RESTful APIs, integrating with third-party APIs, and implementing data exchange between different systems."
-    },
-    {
-        "name": "E-commerce",
-        "description": "E-commerce development involves building online stores and marketplaces that allow businesses to sell their products and services online. This can include designing the user interface, setting up payment processing, and integrating with other e-commerce platforms."
-    },
-    {
-        "name": "Maintenance",
-        "description": "Maintenance involves keeping software applications and systems running smoothly and efficiently. This can include monitoring for bugs and errors, fixing issues as they arise, updating software and security patches, and ensuring that the application or system is always up-to-date and functioning properly."
-    }
+  {
+    "name": "Full-Stack Development",
+    "description": "Experience in Full-Stack Development with Laravel, Node.js, React, and Vue. Proficiency in SQL and relational database design (MySQL), understanding of NoSQL concepts and data modeling. Comfortable with frontend frameworks such as Vue.js, React, Nuxt.js, and Next.js."
+  },
+  {
+    "name": "API & Backend Architecture",
+    "description": "Experience in REST API design and backend architecture. Adept at system maintenance, production deployment, and server configuration (Linux, Apache/Nginx). Experience with real-time systems using WebSockets."
+  },
+  {
+    "name": "DevOps & Deployment",
+    "description": "Familiarity with Docker and containerized deployment environments. Deploy applications using Ubuntu, Apache2, and Docker-based environments. Serverless architecture (Node.js) deployment experience."
+  },
+  {
+    "name": "Web3 & Blockchain",
+    "description": "Familiar with Web3 development including Smart Contracts (ERC-20) and NFT marketplace architecture. Understanding of Blockchain fundamentals (Proof-of-Work, digital signatures, transaction validation)."
+  },
+  {
+    "name": "AI & Testing",
+    "description": "Basic knowledge of Machine Learning. Experience developing AI nodes for workflow automation systems. Implemented unit testing, feature testing, and end-to-end (E2E) testing to ensure system reliability."
+  }
 ]

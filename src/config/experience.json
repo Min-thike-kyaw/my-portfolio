@@ -1,0 +1,49 @@
+[
+  {
+    "role": "Software Engineer",
+    "company": "Loftal Co. Ltd",
+    "period": "Nov 2024 - Current",
+    "highlights": [
+      "Developed a location-based social application integrating Google Maps to display realtime local activities",
+      "Built token generation and token trading applications",
+      "Developed AI nodes for AI workflow automation systems",
+      "Implemented unit testing and feature testing for backend systems",
+      "Conducted end-to-end (E2E) testing to ensure system reliability",
+      "Contributed to Web3-based projects including smart contract integration and blockchain-related features"
+    ]
+  },
+  {
+    "role": "Backend Developer",
+    "company": "LASTTOENJOY Co. Ltd",
+    "period": "Apr 2023 - Nov 2023",
+    "highlights": [
+      "Developed backend systems within defined timelines",
+      "Deployed applications using Serverless architecture (Node.js)",
+      "Resolved production issues and improved system reliability",
+      "Optimized backend performance and database efficiency"
+    ]
+  },
+  {
+    "role": "Senior Full-Stack Developer",
+    "company": "OOAK Co. Ltd",
+    "period": "Oct 2022 - Present",
+    "highlights": [
+      "Maintain and enhance production websites with new features and optimizations",
+      "Design and develop scalable web applications",
+      "Deploy applications using Ubuntu, Apache2, and Docker-based environments",
+      "Lead development teams across multiple projects, managing task delegation, timelines, and quality assurance",
+      "Oversee full project lifecycle from planning to deployment"
+    ]
+  },
+  {
+    "role": "Software Developer",
+    "company": "Host Myanmar Co. Ltd",
+    "period": "Dec 2021 - Oct 2022",
+    "highlights": [
+      "Developed web applications including Learning Management Systems, E-commerce platforms, and Booking Management Systems",
+      "Integrated secure payment gateways for E-commerce platforms",
+      "Maintained and enhanced existing systems for performance and stability",
+      "Implemented custom plugins and feature extensions based on client requirements"
+    ]
+  }
+]
